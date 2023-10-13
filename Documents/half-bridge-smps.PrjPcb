@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UXLSBUBA
 
 [Document4]
-DocumentPath=AC-input-and-line-filter.SchDoc
+DocumentPath=Main-transformer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -132,6 +132,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSWLDPHJ
+
+[Document6]
+DocumentPath=Boost-converter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DLGDMJCP
 
 [Configuration1]
 Name=Sources
